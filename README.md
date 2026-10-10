@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### :man_technologist: About Me :
+I am a Backend Developer from Russia.
+- :telescope: I'm building backend from scratch for the "Transaction History" and "Financial Analytics" blocks of a large bank.
+
+- :seedling: In my spare time, I dive into information and cloud technologies.
+
+- :chart_with_upwards_trend: I'm constantly growing as a specialist.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/RVSoft) [Habr](https://habr.com/ru/users/RVSoft/)
+
 <!--
 **RVSoft-RUS/RVSoft-RUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
